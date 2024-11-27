@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/medicare/static/css/main.8afa5423.css",
+    "main.js": "/medicare/static/js/main.ecf4565f.js",
+    "index.html": "/medicare/index.html",
+    "main.8afa5423.css.map": "/medicare/static/css/main.8afa5423.css.map",
+    "main.ecf4565f.js.map": "/medicare/static/js/main.ecf4565f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8afa5423.css",
+    "static/js/main.ecf4565f.js"
+  ]
+}
