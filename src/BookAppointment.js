@@ -10,7 +10,7 @@ const doctorsData = [{
     experience: "10 years",
     rating: 4.8,
     availableSlots: ["10:00 AM", "11:30 AM", "02:00 PM"],
-    image:"./doctor4.avif" 
+    image:"./doctor4.avif"
   },
 
   {
